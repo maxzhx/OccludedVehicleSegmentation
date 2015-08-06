@@ -9,11 +9,11 @@ Occluded vehicle detection and segmentation algorithm research can be divided in
 
 The main work of this paper:
 
-1. Dividing the concavity image into several connected regions, by corrosion;
+ 1. Dividing the concavity image into several connected regions, by corrosion;
 
-2. Determining each connected region, and detect adhesion;
+ 2. Determining each connected region, and detect adhesion;
 
-3. Find the dividing line by morphological methods.
+ 3. Find the dividing line by morphological methods.
 
 
 This algorithm is tested in Matlab environment by all types of adhesions images extracted from the actual surveillance video. The results prove that this algorithm has high robustness, and has a high detection efficiency against various adhesions.	
